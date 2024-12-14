@@ -1,7 +1,7 @@
 # HTML-Basics-
 <html>
   <head>
-    <title> </title>
-      
+    <title> thml basics </title>
+      hello this is javeed from this side
   </head>
 </html>
